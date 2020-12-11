@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -12,11 +12,10 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ryannemeth@live.com
+    phone: 5745207333
+    website: geekyryan.com #do not add http://
+    linkedin: ryan-nemeth-b0b1504b
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -30,13 +29,10 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Weight Lifting
         link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+        
+      - item: Music
         link:
 
 career-profile:
